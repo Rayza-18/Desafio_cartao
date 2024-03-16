@@ -22,9 +22,7 @@ main{
   
 }
 
-h2{
-    color: hsl(47, 88%, 63%);
-}
+
 p{
     font-family: "Figtree", sans-serif;
     font-size: 16px;
@@ -50,5 +48,8 @@ main{
 }
 #imagemcabeca{
     width: 270px;
+}
+    h2{
+    color: hsl(47, 88%, 63%);
 }
 }
